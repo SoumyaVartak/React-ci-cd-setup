@@ -26,3 +26,6 @@ jobs:
 
       - name: "install dependencies"
         run: npm install
+
+      - name: "show directory"
+        run: ls
